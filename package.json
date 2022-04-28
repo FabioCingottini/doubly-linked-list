@@ -1,0 +1,15 @@
+{
+  "name": "doubly-linked-list",
+  "version": "1.0.0",
+  "description": "A simple npm repository that exports two classes for interacting with a linked list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --detectOpenHandles"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
+}
